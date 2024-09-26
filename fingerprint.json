@@ -1,13 +1,13 @@
 {
   "BRAND": "google",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 8a",
-  "PRODUCT": "akita_beta",
-  "DEVICE": "akita",
-  "FINGERPRINT": "google/akita_beta/akita:15/AP31.240617.015/12207491:user/release-keys",
-  "ID": "AP31.240617.015",
+  "MODEL": "Pixel 6",
+  "PRODUCT": "oriole_beta",
+  "DEVICE": "oriole",
+  "FINGERPRINT": "google/oriole_beta/oriole:15/AP41.240823.009/12329489:user/release-keys",
+  "ID": "AP41.240823.009",
   "TYPE": "user",
   "TAGS": "release-keys",
-  "VERSION:SECURITY_PATCH": "2024-08-05",
-  "VERSION:API_LEVEL": 21
+  "VERSION:SECURITY_PATCH": "2024-09-05",
+  "VERSION:API_LEVEL": 31
 }
