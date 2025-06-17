@@ -1,14 +1,14 @@
 {
   "BRAND": "google",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9",
-  "PRODUCT": "tokay_beta",
-  "DEVICE": "tokay",
-  "FINGERPRINT": "google/tokay_beta/tokay:16/BP22.250325.012/13467521:user/release-keys",
-  "ID": "BP22.250325.012",
+  "MODEL": "Pixel 6",
+  "PRODUCT": "oriole_beta",
+  "DEVICE": "oriole",
+  "FINGERPRINT": "google/oriole_beta/oriole:16/BP31.250502.008.A1/13572937:user/release-keys",
+  "ID": "BP31.250502.008.A1",
   "TYPE": "user",
   "TAGS": "release-keys",
-  "VERSION:SECURITY_PATCH": "2025-04-05",
-  "VERSION:API_LEVEL": 25,
-  "VERSION:SDK_LEVEL": 31
+  "VERSION:SECURITY_PATCH": "2025-05-05",
+  "VERSION:API_LEVEL": 32,
+  "VERSION:SDK_LEVEL": 32
 }
