@@ -1,14 +1,14 @@
 {
   "BRAND": "google",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9",
-  "PRODUCT": "tokay_beta",
-  "DEVICE": "tokay",
-  "FINGERPRINT": "google/tokay_beta/tokay:16/BP31.250610.004/13769805:user/release-keys",
-  "ID": "BP31.250610.004",
+  "MODEL": "Pixel 10 Pro XL",
+  "PRODUCT": "mustang_beta",
+  "DEVICE": "mustang",
+  "FINGERPRINT": "google/mustang_beta/mustang:Baklava/BP41.250725.006/13939570:user/release-keys",
+  "ID": "BP41.250725.006",
   "TYPE": "user",
   "TAGS": "release-keys",
-  "VERSION:SECURITY_PATCH": "2025-07-05",
+  "VERSION:SECURITY_PATCH": "2025-08-05",
   "VERSION:API_LEVEL": 32,
   "VERSION:SDK_LEVEL": 32
 }
