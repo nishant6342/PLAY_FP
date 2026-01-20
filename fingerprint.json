@@ -1,14 +1,14 @@
 {
   "BRAND": "google",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 10 Pro XL",
-  "PRODUCT": "mustang_beta",
-  "DEVICE": "mustang",
-  "FINGERPRINT": "google/mustang_beta/mustang:16/BP41.250916.010.A1/14281945:user/release-keys",
-  "ID": "BP41.250916.010.A1",
+  "MODEL": "Pixel 9a",
+  "PRODUCT": "tangorpro_beta",
+  "DEVICE": "tangorpro",
+  "FINGERPRINT": "google/tangorpro_beta/tangorpro:16/CP11.251209.007.A1/14691868:user/release-keys",
+  "ID": "CP11.251209.007.A1",
   "TYPE": "user",
   "TAGS": "release-keys",
-  "VERSION:SECURITY_PATCH": "2025-11-05",
+  "VERSION:SECURITY_PATCH": "2026-01-05",
   "VERSION:API_LEVEL": 32,
   "VERSION:SDK_LEVEL": 32
 }
